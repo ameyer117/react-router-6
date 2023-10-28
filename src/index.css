@@ -140,6 +140,7 @@ form label span {
 .breadcrumbs .crumb:after {
     content: '>';
     margin-left: 10px;
+    text-decoration: none
 }
 .breadcrumbs .crumb:last-child:after {
     display: none;
